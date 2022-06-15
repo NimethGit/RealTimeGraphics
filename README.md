@@ -1,5 +1,5 @@
 # Real-time Graphics
-This project was created for the course "Real-time Graphics Programming for Games 1" Course code (5sd805) by Miguel Redondo. The objective of the course was to look at modern rendering pipeline and fundamental terms and concepts within real-time computer graphics.
+This project was created for the course "Real-time Graphics Programming for Games 1" by Miguel Redondo. The objective of the course was to look at modern rendering pipeline and fundamental terms and concepts within real-time computer graphics.
 
 The objective of the assignment was to create a scene with objects that were textured and affected by the directional light. The objects had to be constantly moving or rotating. It was also required that one could modify the directional light's color and direction.
 There were also specifics about having a dynamic FPS counter as well as a moveable camera, basically just simulating a real game engine without the physics part.
